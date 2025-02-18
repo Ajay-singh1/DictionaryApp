@@ -1,5 +1,4 @@
 ## DictionaryApp built using React.js and Material UI
-<br>
 
 ### Steps to run this project locally
 
@@ -11,3 +10,5 @@
 </ol>
 
 ### Screencast of the project
+
+https://github.com/user-attachments/assets/f69bc770-f33b-4552-999f-2b34075a1fbd
